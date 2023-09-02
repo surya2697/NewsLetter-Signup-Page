@@ -1,6 +1,5 @@
-# Frontend Mentor - Newsletter sign-up form with success message solution
+# Newsletter sign-up form with success message solution
 
-This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -35,12 +34,12 @@ Users should be able to:
 
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/surya2697/NewsLetter-Signup-Page)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://news-letter-signup-page.vercel.app/)
 
 ## My process
 
